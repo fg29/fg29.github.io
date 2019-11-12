@@ -1,4 +1,5 @@
 # 竹北水塔沒水之處理方式
+[原網址](https://github.com/fg29/fg29.github.io/blob/master/index.md)
 
 ## 導引地下水進水塔
 
